@@ -1,6 +1,8 @@
 ## Projects
 
 ### User Behavior Analysis on Taobao E-commerce Platform
+![复购](https://github.com/user-attachments/assets/b9aaf7f2-fc15-4b0d-b3ac-77c2f3567b9d)
+![用户行为漏斗](https://github.com/user-attachments/assets/bb95d9ce-4d15-4589-902b-01f6068bfce9)
 
 **Brief Description:**  
 Conducted an in-depth analysis of user behavior on Taobao to improve platform traffic and enhance user experience.
